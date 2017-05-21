@@ -1,0 +1,30 @@
+A small innovation could have a big impact on air pollution. In Belgium, researchers have engineered a device that uses sunlight to purify polluted air and produce hydrogen gas that can be stored and used for power.
+
+"We couple both processes together in one device," Sammy Verbruggen, a professor of bioscience engineering at the University of Antwerp, told Live Science. "Hydrogen production on one side and air purification on the other side."
+
+Verbruggenis working with two teams of researchers who had been separately investigating both processes for years. At the University of Antwerp, the scientists had been testing different ways of combing light energy with nanomaterials to purify air. At the University of Leuven, another team had been working on a tiny fuel cell with a membrane that could produce hydrogen gas from water.
+[In Photos: World's Most Polluted Places]
+
+Now, the two teams have merged their expertise to create this newest device, which could purify fouled air and produce energy at the same time.
+
+Verbruggensaid the researchers are focusing on air polluted with volatile organic compounds (VOCs), which are small molecules produced by chemicals in adhesives, upholstery, carpeting, copy machines, cleaning fluids and more. In sufficient concentrations, VOCs can cause severe headaches, eye irritation, dizziness, nauseaand asthma attacks. 
+
+The small molecules can be found in the air of enclosed buildings that are not well-ventilated, according to the Environmental Protection Agency, which may include newly built high-rises to factories that manufacture goods like paint and carpeting.
+
+"They can lead to a disease called the sick building syndrome," Verbruggensaid.
+
+The prototype cell is a square with an active area that measures about 0.4 inches by 0.4 inches (1 centimeter by 1 cm). At one side of the device, a tube delivers polluted air into the cell. Light enters naturally through a transparent window that covers a membrane treated with a light-activated catalyst. Once polluted air and light meet at the membrane, the catalyst tears apart the small organic molecules.
+
+In the process, protons are set free and seep through the membrane, collecting on the other side. There, a platinum catalyst converts them to hydrogen gas, according to the researchers. Meanwhile, the purified air exits through a second tube.
+
+Verbruggen and his colleagues were able to purify air and create gas from a variety of organic compounds, including methanol, ethanol and acetic acid. The scientists are also conducting new experiments with acetaldehyde, a liquid used in the make acetic acid and perfumes. Verbruggen said the most obvious applications are in industries that produce a waste stream, such as manufacturers of paint or textiles.
+
+"You can purify the waste streams so that they meet their environmental quota and at the same time recover the energy that was stored in those molecules," Verbruggen said. The gas produced could be used to power the lights or other machines in the factory, he added.
+
+At the moment, the team has not come up with an engineering solution to collect and store the gas. That’s another step in the engineering process, and one that will need to be solved by further research and development, Verbruggen said.
+
+"I'm more motivated to improve the cell's performance, right now," he said.
+
+Currently, the membrane responds to ultraviolet rays in sunlight, which is only about 4 to 5 percent of the spectrum. But, if the researchers could modify the materials to make them respond to 40 or 50 percent of the solar spectrum, that would increase the efficiency of the cell as a whole, they said.
+
+"Improving the environment is a driving force for us," Verbruggensaid. "If we can catch two flies at the same time — clean up the environment on one side and also provide a cleaner energy source — that's a net benefit, because there's no extra energy input to drive these reactions, just pure sunlight."
